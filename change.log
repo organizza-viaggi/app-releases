@@ -1,7 +1,7 @@
 {
-  "version_code": 107,
-  "version_name": "1.0.7",
+  "version_code": 108,
+  "version_name": "1.0.8",
   "download_url": "https://raw.githubusercontent.com/organizza-viaggi/app-releases/main/TripPrep.apk",
-  "release_notes": "• Fix critico crash su Vault Documenti, Promemoria Timeline e Backup/Ripristino JSON (aggiornamento androidx.fragment:fragment-ktx:1.8.6)\n• Nuova strategia __NUXT_DATA__ WeRoadX: estrae automaticamente date esatte del turno, prezzo quota WeRoad, aeroporti precisi (ICN/NRT), stato Confermata, fascia d'età, gruppo atteso e mood\n• Rafforzata estrazione Cassa Comune (230€) e aggiornamento completo premendo 'Aggiorna' in Panoramica\n• Build OTA v1.0.7 (107) - Rilascio del 22/11/2026 23:10",
+  "release_notes": "• Auto-creazione rotta volo Open-Jaw / A-R aprendo il tab Voli o usando Modifica / Aggiorna su viaggi esistenti, con pulsante diretto 'Genera Rotta Volo'\n• Build OTA v1.0.8 (108) - Rilascio del 22/11/2026 23:28",
   "is_mandatory": false
 }
