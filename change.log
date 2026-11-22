@@ -1,7 +1,7 @@
 {
-  "version_code": 103,
-  "version_name": "1.0.3",
+  "version_code": 104,
+  "version_name": "1.0.4",
   "download_url": "https://raw.githubusercontent.com/organizza-viaggi/app-releases/main/TripPrep.apk",
-  "release_notes": "• Nuova pagina dedicata alle Configurazioni (icona ingranaggio in alto)\n• Centralizzati Aggiornamenti OTA e Backup/Sincronizzazione Google Drive nelle Configurazioni\n• Aggiunto Switch persistente per Modalità Chiara / Scura su tutta l'app\n• Build OTA v1.0.3 (103) - Rilascio del 22/11/2026 19:35",
+  "release_notes": "• Nuova Home Page 'I miei Viaggi' con card riepilogative, filtri (Tutti/Prossimi/Archivio), banner prioritario passaporto e FAB '+ Nuovo Viaggio'\n• Dettaglio Viaggio ristrutturato in 4 Tab Material 3: Panoramica, Zaino, Voli e Documenti\n• Navigazione fluida a 2 livelli (Home ↔ Dettaglio ↔ Configurazioni) con salto rapido da quick-stat e alert passaporto\n• Build OTA v1.0.4 (104) - Rilascio del 22/11/2026 19:55",
   "is_mandatory": false
 }
