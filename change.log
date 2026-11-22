@@ -1,7 +1,7 @@
 {
-  "version_code": 106,
-  "version_name": "1.0.6",
+  "version_code": 107,
+  "version_name": "1.0.7",
   "download_url": "https://raw.githubusercontent.com/organizza-viaggi/app-releases/main/TripPrep.apk",
-  "release_notes": "• Fix parser itinerario WeRoadX: riconosciuti esattamente i 15 giorni reali aggregando le sotto-tappe nella descrizione di ogni giorno (risolto bug delle 38 tappe)\n• Migliorato rilevamento automatico Open-Jaw da DOM (es. Seul ICN -> Tokyo TYO) e stima Cassa Comune WeRoadX\n• Nuovo pulsante 'Aggiorna' nella card Itinerario per risincronizzare viaggi già salvati senza perdere checklist e documenti + espansione tappe al tap\n• Build OTA v1.0.6 (106) - Rilascio del 22/11/2026 22:45",
+  "release_notes": "• Fix critico crash su Vault Documenti, Promemoria Timeline e Backup/Ripristino JSON (aggiornamento androidx.fragment:fragment-ktx:1.8.6)\n• Nuova strategia __NUXT_DATA__ WeRoadX: estrae automaticamente date esatte del turno, prezzo quota WeRoad, aeroporti precisi (ICN/NRT), stato Confermata, fascia d'età, gruppo atteso e mood\n• Rafforzata estrazione Cassa Comune (230€) e aggiornamento completo premendo 'Aggiorna' in Panoramica\n• Build OTA v1.0.7 (107) - Rilascio del 22/11/2026 23:10",
   "is_mandatory": false
 }
