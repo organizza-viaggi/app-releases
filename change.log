@@ -1,7 +1,7 @@
 {
-  "version_code": 102,
-  "version_name": "1.0.2",
+  "version_code": 103,
+  "version_name": "1.0.3",
   "download_url": "https://raw.githubusercontent.com/organizza-viaggi/app-releases/main/TripPrep.apk",
-  "release_notes": "• Nuova icona Adaptive Icon flagship per TripPrep (zaino corallo, aereo e badge teal) con supporto Material You Monochrome\n• Build OTA v1.0.2 (102) - Rilascio del 22/11/2026 14:05",
+  "release_notes": "• Nuova pagina dedicata alle Configurazioni (icona ingranaggio in alto)\n• Centralizzati Aggiornamenti OTA e Backup/Sincronizzazione Google Drive nelle Configurazioni\n• Aggiunto Switch persistente per Modalità Chiara / Scura su tutta l'app\n• Build OTA v1.0.3 (103) - Rilascio del 22/11/2026 19:35",
   "is_mandatory": false
 }
