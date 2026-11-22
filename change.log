@@ -1,7 +1,7 @@
 {
-  "version_code": 104,
-  "version_name": "1.0.4",
+  "version_code": 105,
+  "version_name": "1.0.5",
   "download_url": "https://raw.githubusercontent.com/organizza-viaggi/app-releases/main/TripPrep.apk",
-  "release_notes": "• Nuova Home Page 'I miei Viaggi' con card riepilogative, filtri (Tutti/Prossimi/Archivio), banner prioritario passaporto e FAB '+ Nuovo Viaggio'\n• Dettaglio Viaggio ristrutturato in 4 Tab Material 3: Panoramica, Zaino, Voli e Documenti\n• Navigazione fluida a 2 livelli (Home ↔ Dettaglio ↔ Configurazioni) con salto rapido da quick-stat e alert passaporto\n• Build OTA v1.0.4 (104) - Rilascio del 22/11/2026 19:55",
+  "release_notes": "• Vault Documenti completo: allega PDF/Immagini cifrati AES-256-GCM, anteprima in-app con verifica SHA-256 e sblocco Biometria/PIN\n• Date Picker nativo Material 3, Modifica ed Eliminazione viaggi, Aeroporto partenza di default e copertine cached offline\n• Checklist potenziata con categorie, eliminazione voci e Kit Base Personale riutilizzabile in 1 tap\n• Nuove card Info Pratiche Destinazione, Coordinatore/WhatsApp, Budget & Cassa Comune + promemoria Timeline giornalieri\n• Export/Ripristino JSON completo (SHA-256), prezzi voli live SerpApi / manuali e badge OTA su Configurazioni\n• Build OTA v1.0.5 (105) - Rilascio del 22/11/2026 20:55",
   "is_mandatory": false
 }
