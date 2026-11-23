@@ -1,7 +1,7 @@
 {
-    "version_code":  109,
-    "version_name":  "1.0.9",
+    "version_code":  110,
+    "version_name":  "1.0.10",
     "download_url":  "https://raw.githubusercontent.com/organizza-viaggi/app-releases/main/TripPrep.apk",
-    "release_notes":  "• Importazione Multi-Canale Storico Viaggi (v1.0.9):\n  - Gmail API read-only: scansione conferme WeRoad, filtro anti-newsletter, supporto token manuale in RAM e guida setup Google Cloud (Package + SHA-1)\n  - my.weroad.it Assistito: WebView sicura + Chrome Custom Tabs per Google Auth + lettore DOM\n  - PDF Voucher \u0026 Batch/Condividi: parsing PDF offline multiplo, lista link/testo e Condividi Android con preservazione date storiche\n  - Passaporto Viaggiatore: Paesi visitati e giorni in viaggio + Archivio per anno\n  - Backup diretto 1-tap su Google Drive appDataFolder in Configurazioni\n• Build OTA v1.0.9 (109) - Rilascio del 23/11/2026 08:02",
+    "release_notes":  "• Importazione Storico \u0026 WebView OAuth (v1.0.10):\n  - WebView my.weroad.it: estesi in sicurezza i domini HTTPS e i cookie cross-domain per i redirect dei provider di login (Google/Auth0/Apple/Cloudflare) con pulizia esplicita dal tasto Pulisci e banner chiaro su blocchi/errori HTTP\n  - Diagnostica Sicura: log sanitizzati TripPrepWebView, TripPrepAuth e TripPrepHistory su Logcat (privi di token, cookie, password o query sensibili)\n• Include tutte le funzionalità v1.0.9: Gmail API read-only, PDF Voucher offline, Batch/Condividi, Passaporto Viaggiatore \u0026 Backup diretto Google Drive\n• Build OTA v1.0.10 (110) - Rilascio del 23/11/2026 08:45",
     "is_mandatory":  false
 }
