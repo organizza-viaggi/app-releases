@@ -1,7 +1,7 @@
 {
-    "version_code":  110,
-    "version_name":  "1.0.10",
+    "version_code":  111,
+    "version_name":  "1.0.11",
     "download_url":  "https://raw.githubusercontent.com/organizza-viaggi/app-releases/main/TripPrep.apk",
-    "release_notes":  "• Importazione Storico \u0026 WebView OAuth (v1.0.10):\n  - WebView my.weroad.it: estesi in sicurezza i domini HTTPS e i cookie cross-domain per i redirect dei provider di login (Google/Auth0/Apple/Cloudflare) con pulizia esplicita dal tasto Pulisci e banner chiaro su blocchi/errori HTTP\n  - Diagnostica Sicura: log sanitizzati TripPrepWebView, TripPrepAuth e TripPrepHistory su Logcat (privi di token, cookie, password o query sensibili)\n• Include tutte le funzionalità v1.0.9: Gmail API read-only, PDF Voucher offline, Batch/Condividi, Passaporto Viaggiatore \u0026 Backup diretto Google Drive\n• Build OTA v1.0.10 (110) - Rilascio del 23/11/2026 08:45",
+    "release_notes":  "• Fix Login Google su my.weroad.it (v1.0.11):\n  - WebView Multi-Finestra OAuth: supporto popup nativo (onCreateWindow / onCloseWindow) per completare Google Identity Services (gsi/transform) mantenendo my.weroad.it attivo sotto su window.opener, con tasto Chiudi popup\n• Include tutte le funzionalità v1.0.10: redirect OAuth estesi, cookie cross-domain ripulibili, log diagnostici sicuri TripPrepWebView/TripPrepAuth/TripPrepHistory, Gmail read-only, PDF Voucher, Passaporto Viaggiatore e Google Drive\n• Build OTA v1.0.11 (111) - Rilascio del 23/11/2026 09:00",
     "is_mandatory":  false
 }
