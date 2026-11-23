@@ -1,7 +1,7 @@
 {
-    "version_code":  111,
-    "version_name":  "1.0.11",
-    "download_url":  "https://raw.githubusercontent.com/organizza-viaggi/app-releases/main/TripPrep.apk",
-    "release_notes":  "• Fix Login Google su my.weroad.it (v1.0.11):\n  - WebView Multi-Finestra OAuth: supporto popup nativo (onCreateWindow / onCloseWindow) per completare Google Identity Services (gsi/transform) mantenendo my.weroad.it attivo sotto su window.opener, con tasto Chiudi popup\n• Include tutte le funzionalità v1.0.10: redirect OAuth estesi, cookie cross-domain ripulibili, log diagnostici sicuri TripPrepWebView/TripPrepAuth/TripPrepHistory, Gmail read-only, PDF Voucher, Passaporto Viaggiatore e Google Drive\n• Build OTA v1.0.11 (111) - Rilascio del 23/11/2026 09:00",
-    "is_mandatory":  false
+  "version_code": 112,
+  "version_name": "1.1.0",
+  "is_mandatory": false,
+  "download_url": "https://raw.githubusercontent.com/organizza-viaggi/app-releases/main/TripPrep.apk",
+  "release_notes": "TripPrep v1.1.0 (Build 112) - Profilo Viaggiatore Vault & Rimozione Gmail diretta:\n- Nuovo Profilo Viaggiatore accessibile dalla Home (icona Profilo in alto a destra): gestisci Passaporto, Carta d'Identità, Patente, Patente Internazionale, Tessera Sanitaria/TEAM, Assicurazione Viaggio Annuale, ESTA/eTA e documenti personalizzati con allegati cifrati AES-256-GCM e biometria.\n- Auto-collegamento automatico del Passaporto (scadenza, ultime 4 cifre e copia indipendente nel Vault) su ogni nuovo viaggio creato o importato.\n- Nuovo pulsante nel Profilo per sincronizzare il Passaporto su tutti i viaggi futuri in programma e importazione 1-tap 'Profilo' dalla scheda Documenti di qualsiasi viaggio.\n- Rimossa completamente la lettura diretta Gmail e Google Play Services OAuth: Importa Storico semplificato su my.weroad.it (WebView + popup Google + Custom Tabs) e PDF & Batch / Condivisione Android, con Backup JSON SHA-256 via SAF."
 }
